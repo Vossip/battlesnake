@@ -1,0 +1,24 @@
+======= REQUEST =======
+ŸMoveRequest(game=Game(id=3e02b354-ae29-4c3e-8c5b-26a04c764f8c), turn=1, board=Board(height=15, width=15, food=[Coordinate(x=2, y=4)], snakes=[Snake(id=null, name=null, health=null, body=[Coordinate(x=8, y=10)])]), you=Snake(id=null, name=null, health=null, body=[Coordinate(x=5, y=5)]))
+===== MOVES ======
+[RIGHT, UP, DOWN, LEFT]
+======= REQUEST =======
+ŸMoveRequest(game=Game(id=3e02b354-ae29-4c3e-8c5b-26a04c764f8c), turn=1, board=Board(height=15, width=15, food=[Coordinate(x=2, y=4)], snakes=[Snake(id=null, name=null, health=null, body=[Coordinate(x=8, y=10)])]), you=Snake(id=null, name=null, health=null, body=[Coordinate(x=0, y=0)]))
+===== MOVES ======
+[RIGHT, DOWN]
+======= REQUEST =======
+ MoveRequest(game=Game(id=3e02b354-ae29-4c3e-8c5b-26a04c764f8c), turn=1, board=Board(height=15, width=15, food=[Coordinate(x=2, y=4)], snakes=[Snake(id=null, name=null, health=null, body=[Coordinate(x=8, y=10)])]), you=Snake(id=null, name=null, health=null, body=[Coordinate(x=0, y=14)]))
+===== MOVES ======
+[RIGHT, UP]
+	======= REQUEST =======
+	µMoveRequest(game=Game(id=3e02b354-ae29-4c3e-8c5b-26a04c764f8c), turn=1, board=Board(height=15, width=15, food=[Coordinate(x=2, y=4)], snakes=[Snake(id=null, name=null, health=null, body=[Coordinate(x=8, y=10)])]), you=Snake(id=null, name=null, health=null, body=[Coordinate(x=0, y=0), Coordinate(x=1, y=0)]))
+	===== MOVES ======
+	[DOWN]
+======= REQUEST =======
+ MoveRequest(game=Game(id=3e02b354-ae29-4c3e-8c5b-26a04c764f8c), turn=1, board=Board(height=15, width=15, food=[Coordinate(x=2, y=4)], snakes=[Snake(id=null, name=null, health=null, body=[Coordinate(x=8, y=10)])]), you=Snake(id=null, name=null, health=null, body=[Coordinate(x=14, y=0)]))
+===== MOVES ======
+[DOWN, LEFT]
+======= REQUEST =======
+¡MoveRequest(game=Game(id=3e02b354-ae29-4c3e-8c5b-26a04c764f8c), turn=1, board=Board(height=15, width=15, food=[Coordinate(x=2, y=4)], snakes=[Snake(id=null, name=null, health=null, body=[Coordinate(x=8, y=10)])]), you=Snake(id=null, name=null, health=null, body=[Coordinate(x=14, y=14)]))
+===== MOVES ======
+[UP, LEFT]
